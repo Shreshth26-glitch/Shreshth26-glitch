@@ -1,4 +1,4 @@
-# 💫 About Me:
+Hi there! I'm Shreshth Swami 👋
 🔭 I'm currently working on **responsive web applications and personal frontend projects.**<br><br>👯 I'm looking to collaborate on **Frontend, Full Stack, and Open Source projects.**<br><br>🤝 I'm looking for help with **scalable React applications, backend architecture, and deployment.**<br><br>🌱 I'm currently learning **React.js • Node.js • Express.js • MongoDB • TypeScript • Git & GitHub**<br><br>💬 Ask me about **Frontend Development, HTML, CSS, JavaScript, C++, and Responsive UI Design.**<br><br>⚡ Fun fact: **Every project I build teaches me something new, and I'm always looking for the next challenge.**
 
 
